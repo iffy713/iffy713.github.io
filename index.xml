@@ -6,5 +6,26 @@
     <description>Recent content on Yifan&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>👋About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 13 Jan 2023 00:19:32 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description> 1 2 3 4 5 6 7 8 9 class Yifan: def __init__(self): self.name = &amp;#34;Yifan Xin&amp;#34; self.prefer_name = &amp;#34;Yifan&amp;#34; def contact_info(self): self.github = &amp;#34;https://github.com/iffy713&amp;#34; self.linkedin = &amp;#34;https://www.linkedin.com/in/yifan-xin/&amp;#34; self.angelist = &amp;#34;https://angel.co/u/yifan-xin&amp;#34; </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/</guid>
+      <description> Full-stack Projects Nstorm live | github A Nordstorm clone, an E-commerce wetsite allows users purchase and manage accounts.
+Python | JavaScript | Flask | React | Redux | awsRobinhold live | github
+A Robinhood clone, a stock trading website. Python | JavaScript | Flask | React | ReduxAirbvb live | github
+An Airbnb clone, a travel booking website. JavaScript | Express.js | React | Redux</description>
+    </item>
+    
   </channel>
 </rss>
