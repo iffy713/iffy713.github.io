@@ -2,29 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yifan&#39;s Page</title>
-    <link>/</link>
+    <link>https://iffy713.github.io/</link>
     <description>Recent content on Yifan&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://iffy713.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>👋About</title>
-      <link>/about/</link>
+      <link>https://iffy713.github.io/about/</link>
       <pubDate>Fri, 13 Jan 2023 00:19:32 -0500</pubDate>
       
-      <guid>/about/</guid>
-      <description> 1 2 3 4 5 6 7 8 9 class Yifan: def __init__(self): self.name = &amp;#34;Yifan Xin&amp;#34; self.prefer_name = &amp;#34;Yifan&amp;#34; def contact_info(self): self.github = &amp;#34;https://github.com/iffy713&amp;#34; self.linkedin = &amp;#34;https://www.linkedin.com/in/yifan-xin/&amp;#34; self.angelist = &amp;#34;https://angel.co/u/yifan-xin&amp;#34; </description>
+      <guid>https://iffy713.github.io/about/</guid>
+      <description> 1 2 3 4 5 6 7 8 9 10 11 12 13 14 class Yifan: def __init__(self): self.name = &amp;#34;Yifan Xin&amp;#34; self.prefer_name = &amp;#34;Yifan&amp;#34; def skills(self): language = [&amp;#39;Python&amp;#39;, &amp;#39;Javascript&amp;#39;, &amp;#39;HTML5&amp;#39;, &amp;#39;CSS&amp;#39;] frameworks = [&amp;#39;Flask&amp;#39;, &amp;#39;Express.js&amp;#39;, &amp;#39;React/Redux&amp;#39;] databases = [&amp;#39;SQLAlchemy&amp;#39;, &amp;#39;Sequelize&amp;#39;, &amp;#39;SQLite&amp;#39;] def contact_info(self): self.github = &amp;#34;https://github.com/iffy713&amp;#34; self.linkedin = &amp;#34;https://www.linkedin.com/in/yifan-xin/&amp;#34; self.angelist = &amp;#34;https://angel.co/u/yifan-xin&amp;#34; </description>
     </item>
     
     <item>
-      <title></title>
-      <link>/project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>👩‍💻Full-stack Projects</title>
+      <link>https://iffy713.github.io/project/</link>
+      <pubDate>Fri, 13 Jan 2023 00:19:32 -0500</pubDate>
       
-      <guid>/project/</guid>
-      <description> Full-stack Projects Nstorm live | github A Nordstorm clone, an E-commerce wetsite allows users purchase and manage accounts.
-Python | JavaScript | Flask | React | Redux | awsRobinhold live | github
-A Robinhood clone, a stock trading website. Python | JavaScript | Flask | React | ReduxAirbvb live | github
-An Airbnb clone, a travel booking website. JavaScript | Express.js | React | Redux</description>
+      <guid>https://iffy713.github.io/project/</guid>
+      <description>Nstorm E-commerce Website, clone of Nordstorm. live | github Python | JavaScript | Flask | React | Redux | aws | SQLAlchemy Implemented features such as product browsing, detailed product information, which allow users to easily browse and make purchases from a variety of products in different categories.Facilitated the checkout process by providing the feature of adding items to cart, adjusting quantities of items in the cart, reviewing the order and entering shipping address information.</description>
     </item>
     
   </channel>

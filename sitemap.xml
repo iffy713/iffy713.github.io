@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://iffy713.github.io/about/</loc>
     <lastmod>2023-01-13T00:19:32-05:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
-    <priority>0</priority>
+    <loc>https://iffy713.github.io/project/</loc>
+    <lastmod>2023-01-13T00:19:32-05:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://iffy713.github.io/categories/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://iffy713.github.io/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://iffy713.github.io/tags/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://iffy713.github.io/</loc>
   </url>
 </urlset>
